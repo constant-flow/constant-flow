@@ -1,6 +1,6 @@
 ### Hello world 
 
-Hi, I'm a creative technogist and interested in many technolgies and curious how to connect them.
+Hi, I'm a creative technogist and interested in many technologies and curious how to connect them.
 
 - **Software** (Web, C++, C, Android, Java, C#, Python, MATLAB)
 - **Frameworks** (Unity, Vue, React, Processing, Openframeworks, OpenCV)
