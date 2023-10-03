@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello world 
 
-<!--
-**constant-flow/constant-flow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm a creative technogist and interested in many technolgies and curious how to connect them.
 
-Here are some ideas to get you started:
+- **Software** (Web, C++, C, Android, Java, C#, Python, MATLAB)
+- **Frameworks** (Unity, Vue, React, Processing, Openframeworks, OpenCV)
+- **Tools** (Git, Docker, Docker-Compose, Ansible)
+- **Electronical Engineering** (EAGLE, Platformio, Arduino-cli, Raspberry Pi, ESP32, Cortex-M0, Teensy)
+- **Networking** (TCP/UDP, OSC, MQTT, Websockets, Ethernet, WiFi, Narrowband, Bluetooth, LoRa)
+- **Computer Graphics** (OpenGL, SVG, Shader)
+- **3D Design** (Fusion 360, FreeCAD, Blender, OpenSCAD, Cinema 4D)
+- **2D Design** (After Effects, Illustrator, Figma, Photoshop, Premiere)
+- **Interactive** (Hololens 2, PicoXR, HTC Vive, OptiTrack, Structured Light/Time-of-flight camera sensors, various other sensors and actuators)
+- **Rapid Prototyping** (3D Printing, Laser Cutting, CNC, Paper scissor glue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some of my work and contributions I share publicly. In case you feel like I supported you, you can support me [![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZDMVW94NZ84GU)
